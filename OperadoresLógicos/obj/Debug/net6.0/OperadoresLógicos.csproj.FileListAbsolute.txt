@@ -1,0 +1,15 @@
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.exe
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.deps.json
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.runtimeconfig.json
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.dll
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\bin\Debug\net6.0\OperadoresLógicos.pdb
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.csproj.AssemblyReference.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.AssemblyInfoInputs.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.AssemblyInfo.cs
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.csproj.CoreCompileInputs.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.dll
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\refint\OperadoresLógicos.dll
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.pdb
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\OperadoresLógicos.genruntimeconfig.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\OperadoresLógicos\obj\Debug\net6.0\ref\OperadoresLógicos.dll

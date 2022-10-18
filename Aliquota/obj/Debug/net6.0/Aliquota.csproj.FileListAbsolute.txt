@@ -1,0 +1,15 @@
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\bin\Debug\net6.0\Aliquota.exe
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\bin\Debug\net6.0\Aliquota.deps.json
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\bin\Debug\net6.0\Aliquota.runtimeconfig.json
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\bin\Debug\net6.0\Aliquota.dll
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\bin\Debug\net6.0\Aliquota.pdb
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.csproj.AssemblyReference.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.AssemblyInfoInputs.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.AssemblyInfo.cs
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.csproj.CoreCompileInputs.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.dll
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\refint\Aliquota.dll
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.pdb
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\Aliquota.genruntimeconfig.cache
+C:\Dev\BackEnd\Csharp\AprendendoCSharp\Aliquota\obj\Debug\net6.0\ref\Aliquota.dll

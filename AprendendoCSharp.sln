@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "AprendendoCSharp\OlaMundo.csproj", "{FA2D0C61-97D5-42BE-9DF9-6DDDCD324C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OlaMundo", "AprendendoCSharp\OlaMundo.csproj", "{FA2D0C61-97D5-42BE-9DF9-6DDDCD324C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLógicos", "OperadoresLógicos\OperadoresLógicos.csproj", "{4E37EBBC-1837-49AB-AF75-A1AEEC72D6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aliquota", "Aliquota\Aliquota.csproj", "{DEF86461-86BE-4BFB-BF9B-3CE59816FE08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{FA2D0C61-97D5-42BE-9DF9-6DDDCD324C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA2D0C61-97D5-42BE-9DF9-6DDDCD324C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA2D0C61-97D5-42BE-9DF9-6DDDCD324C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E37EBBC-1837-49AB-AF75-A1AEEC72D6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E37EBBC-1837-49AB-AF75-A1AEEC72D6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E37EBBC-1837-49AB-AF75-A1AEEC72D6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E37EBBC-1837-49AB-AF75-A1AEEC72D6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF86461-86BE-4BFB-BF9B-3CE59816FE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF86461-86BE-4BFB-BF9B-3CE59816FE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF86461-86BE-4BFB-BF9B-3CE59816FE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF86461-86BE-4BFB-BF9B-3CE59816FE08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
